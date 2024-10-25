@@ -1,12 +1,18 @@
 # Wikipedia Game Testing 
 
 ## System Requirements
-- Docker
+- Docker compose
 - Python3
 
-## Setup Selenium
+## Manage Selenium
 
-`docker run -d -p 4444:4444 -p 7900:7900 --shm-size="2g" selenium/standalone-chrome:latest`
+### Start
+
+`docker compose up -d`
+
+### Stop
+
+`docker compose down`
 
 ## Setup python environment
 
