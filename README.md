@@ -1,20 +1,21 @@
+# Wikipedia Game Testing 
 
-Requirements
+## System Requirements
 - Docker
-- Python
+- Python3
 
-Setup Selenium
+## Setup Selenium
 
 `docker run -d -p 4444:4444 -p 7900:7900 --shm-size="2g" selenium/standalone-chrome:latest`
 
-Setup python environment
+## Setup python environment
 
-`python3 -m venv selenium_env`
+`python3 -m venv venv`
 
-`source selenium_env/bin/activate`
+`source venv/bin/activate`
 
 `pip install -r requirements.txt`
 
-Run Test
+## Run tests
 
-`python3 test.py`
+`python3 wikipedia_game_test.py`
