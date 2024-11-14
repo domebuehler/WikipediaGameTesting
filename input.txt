@@ -1,0 +1,16 @@
+## Examples:
+Philosophie
+Nörde | Philosophy | asdf
+Nörde | Philosophy | de
+Dorfkirche Rudow | Philosophie | de
+Dorfkirche_Rudow | Duden | de
+How Much Is the Fish? | Philosophie | de
+System | Philosophie | de
+Flandern | Philosophie | de
+Gemeinsprache | Philosophie | de
+Volleyball-Europameisterschaft der Männer 2005 | Philosophy | de
+Hamster
+Hog-nosed skunk
+Arabic language
+System
+Agent Side Grinder | Philosophie | fr
